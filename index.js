@@ -3,7 +3,7 @@ const fs = require('fs');
 
 // Faylga yozish uchun stream yaratamiz
 const output = fs.createWriteStream('output.bin', { flags: 'a' });
-
+// fghf 
 // TCP server porti (masalan ISUP 5.0 7660-port)
 const PORT = 7660;
 
